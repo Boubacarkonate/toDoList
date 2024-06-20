@@ -36,7 +36,7 @@ function App() {
         <div style={{textAlign: 'center',marginTop:'20px'}}>
           <Image src={myLogo} roundedCircle  style={{width: '15%'}}/>
         </div>
-        <h1 id='app-title'>LISTE DES TACHES À FAIRE</h1>
+        <h1 id='app-title'>LISTE DES TÂCHES À FAIRE</h1>
       </Row>
       {/* Header */}
       <Row>

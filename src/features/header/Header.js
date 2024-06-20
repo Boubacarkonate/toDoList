@@ -23,7 +23,7 @@ function Header({handleShow}) {
         <Col md={4} xs={12}>
           <div className='d-grid add-button'>
           <Button variant="dark" onClick={handleShow} size='lg'>
-            Ajouter Tache
+            Ajouter Tâche
           </Button>
           </div>
         </Col>
