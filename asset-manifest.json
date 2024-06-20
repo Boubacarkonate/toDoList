@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toDoList/static/css/main.94cce9de.css",
+    "main.js": "/toDoList/static/js/main.0e498f9a.js",
+    "static/js/787.a5cad257.chunk.js": "/toDoList/static/js/787.a5cad257.chunk.js",
+    "static/media/img8.jpg": "/toDoList/static/media/img8.2c0db84daf4b98c49ac7.jpg",
+    "static/media/logo.png": "/toDoList/static/media/logo.997ea65380a765ef3787.png",
+    "static/media/img1.png": "/toDoList/static/media/img1.f48eddcbf2e81ac27fe3.png",
+    "static/media/img6.jpg": "/toDoList/static/media/img6.6f4fd415c2c0f0378b2a.jpg",
+    "static/media/img5.jpg": "/toDoList/static/media/img5.276359da994bae4f8b18.jpg",
+    "static/media/img9.jpg": "/toDoList/static/media/img9.6470ec08b4d0795c0910.jpg",
+    "static/media/img10.jpg": "/toDoList/static/media/img10.6c11c2f8695c6c4b8ad1.jpg",
+    "static/media/img4.jpg": "/toDoList/static/media/img4.89cbfa6ab8dccba6436a.jpg",
+    "index.html": "/toDoList/index.html",
+    "main.94cce9de.css.map": "/toDoList/static/css/main.94cce9de.css.map",
+    "main.0e498f9a.js.map": "/toDoList/static/js/main.0e498f9a.js.map",
+    "787.a5cad257.chunk.js.map": "/toDoList/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94cce9de.css",
+    "static/js/main.0e498f9a.js"
+  ]
+}
